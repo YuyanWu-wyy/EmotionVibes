@@ -1,0 +1,120 @@
+nohup: ignoring input
+Converting unknown_baseline_p13_few_shot.ipynb...
+[NbConvertApp] Converting notebook unknown_baseline_p13_few_shot.ipynb to notebook
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2023-11-15 16:59:00.398834: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-11-15 17:00:32.278371: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.292544: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.303260: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.307677: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.308068: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.309270: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.378948: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.379136: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.379300: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:32.379437: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1639] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 46344 MB memory:  -> device: 0, name: NVIDIA RTX A6000, pci bus id: 0000:2d:00.0, compute capability: 8.6
+2023-11-15 17:00:32.379770: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+2023-11-15 17:00:33.314902: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:33.315223: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:33.315407: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:33.315617: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:33.315795: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:995] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2023-11-15 17:00:33.315934: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1639] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 46344 MB memory:  -> device: 0, name: NVIDIA RTX A6000, pci bus id: 0000:2d:00.0, compute capability: 8.6
+2023-11-15 17:00:33.315961: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+2023-11-15 17:00:33.339621: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:375] MLIR V1 optimization pass is not enabled
+2023-11-15 17:00:33.401287: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 45.26GiB (48596123648 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.402514: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 40.73GiB (43736510464 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.403656: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 36.66GiB (39362859008 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.404737: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 32.99GiB (35426570240 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.405860: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 29.69GiB (31883913216 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.406914: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 26.72GiB (28695521280 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.407972: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 24.05GiB (25825968128 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.409137: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 21.65GiB (23243370496 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.410203: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 19.48GiB (20919033856 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.411264: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 17.53GiB (18827130880 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.412428: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 15.78GiB (16944417792 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.413493: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 14.20GiB (15249975296 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.414547: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 12.78GiB (13724977152 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.415631: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 11.50GiB (12352479232 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.416687: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 10.35GiB (11117231104 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.417759: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 9.32GiB (10005508096 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.418853: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 8.39GiB (9004956672 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.419917: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 7.55GiB (8104460800 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.420966: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 6.79GiB (7294014464 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.422098: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 6.11GiB (6564612608 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.423155: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 5.50GiB (5908151296 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.424214: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 4.95GiB (5317336064 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.425289: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 4.46GiB (4785602560 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.426249: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 4.01GiB (4307042304 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.427112: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 3.61GiB (3876337920 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.427979: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 3.25GiB (3488704000 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.428871: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 2.92GiB (3139833600 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.429729: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 2.63GiB (2825850112 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.430600: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 2.37GiB (2543265024 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.431622: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 2.13GiB (2288938496 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.432478: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 1.92GiB (2060044544 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.433348: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 1.73GiB (1854040064 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.434212: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 1.55GiB (1668636160 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.435069: I tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:753] failed to allocate 1.40GiB (1501772544 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY: out of memory
+2023-11-15 17:00:33.444134: W tensorflow/c/c_api.cc:304] Operation '{name:'lstm_20/lstm_cell_20/kernel/Assign' id:3316 op device:{requested: '', assigned: ''} def:{{{node lstm_20/lstm_cell_20/kernel/Assign}} = AssignVariableOp[_has_manual_control_dependencies=true, dtype=DT_FLOAT, validate_shape=false](lstm_20/lstm_cell_20/kernel, lstm_20/lstm_cell_20/kernel/Initializer/random_uniform)}}' was changed by setting attribute after it was run by a session. This mutation will have no effect, and will trigger an error in the future. Either don't modify nodes after running them or create a new session.
+[NbConvertApp] ERROR | Kernel died while waiting for execute reply.
+Traceback (most recent call last):
+  File "/usr/bin/jupyter-nbconvert", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/usr/lib/python3.11/site-packages/jupyter_core/application.py", line 285, in launch_instance
+    return super().launch_instance(argv=argv, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/traitlets/config/application.py", line 1043, in launch_instance
+    app.start()
+  File "/usr/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 410, in start
+    self.convert_notebooks()
+  File "/usr/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 585, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/usr/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 551, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 477, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
+    return self.from_notebook_node(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/exporters/notebook.py", line 36, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 352, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
+    return self.preprocess(nb, resources)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbconvert/preprocessors/execute.py", line 100, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/usr/lib/python3.11/site-packages/nbconvert/preprocessors/execute.py", line 121, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/jupyter_core/utils/__init__.py", line 166, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/base_events.py", line 653, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/site-packages/nbclient/client.py", line 1005, in async_execute_cell
+    raise DeadKernelError("Kernel died") from None
+nbclient.exceptions.DeadKernelError: Kernel died
+Error converting unknown_baseline_p13_few_shot.ipynb. Exiting.
